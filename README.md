@@ -5,7 +5,8 @@ A laravel boilerplate. Current laravel version: 5.5
 1. User CRUD
 2. User roles and permissions
 3. Basic user authorization/policy
-4. User-related migrations and seeders
+4. Clean database (see installation section)
+5. User-related migrations and seeders
 
 **Installation:**
 1. Clone the repo: `git clone https://github.com/arnold-unified/laravel-boilerplate.git`
